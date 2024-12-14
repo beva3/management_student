@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Bob Smith",
+      "id": "002",
+      "age": 17,
+      "grade": "11th Grade"
+    },
+    {
+      "name": "Alice Johnson",
+      "id": "003",
+      "age": 16,
+      "grade": "10th Grade"
+    },
+    {
+      "name": "Charlie Brown",
+      "id": "004",
+      "age": 15,
+      "grade": "9th Grade"
+    },
+    {
+      "name": "David Williams",
+      "id": "005",
+      "age": 18,
+      "grade": "12th Grade"
+    },
+    {
+      "name": "Emma Davis",
+      "id": "006",
+      "age": 17,
+      "grade": "11th Grade"
+    },
+    {
+      "name": "Frank Miller",
+      "id": "007",
+      "age": 16,
+      "grade": "10th Grade"
+    },
+    {
+      "name": "Grace Wilson",
+      "id": "008",
+      "age": 15,
+      "grade": "9th Grade"
+    },
+    {
+      "name": "Henry Moore",
+      "id": "009",
+      "age": 18,
+      "grade": "12th Grade"
+    },
+    {
+      "name": "Isabel Taylor",
+      "id": "010",
+      "age": 17,
+      "grade": "11th Grade"
+    }
+  ]
+  
